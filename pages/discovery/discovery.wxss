@@ -1,0 +1,20 @@
+/* pages/discovery/discovery.wxss */
+
+.container {
+  height: 1000px;
+}
+.container.withtab {
+  margin-top: 100rpx;
+}
+.top-tab .active {
+  color: #fff;
+  border-bottom: 2px solid #fff;
+}
+.activity {
+  width: 750rpx;
+  height: 375rpx;
+}
+.activity image{
+  width: 750rpx;
+  height: 375rpx;
+}
